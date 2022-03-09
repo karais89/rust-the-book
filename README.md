@@ -1,4 +1,6 @@
 # rust-the-book
+![ferris](./img/ferris.png){: width="100" height="100"}
+
 러스트 프로그래밍 공식 가이드
 
 기본적으로 모든 내용은 공식 프로그래밍 가이드의 내용을 기반으로 한다.
