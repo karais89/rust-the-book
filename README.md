@@ -1,5 +1,5 @@
 # rust-the-book
-![ferris](./img/ferris.png){: width="100" height="100"}
+![ferris](./img/ferris.png)
 
 러스트 프로그래밍 공식 가이드
 
