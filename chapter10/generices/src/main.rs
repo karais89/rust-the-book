@@ -15,8 +15,12 @@ fn main() {
 
     let number_list = vec![34, 50, 25, 100, 65];
     let list = &number_list[..];
-    for i in list {
+    for i in list.iter() {
         println!("{}", i);
+    }
+
+    for i in number_list {
+        println!("{}", i);    
     }
 }
 
